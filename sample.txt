@@ -3,5 +3,7 @@ line1
 line2
 
 #bar
-lineb1
-lineb2
+la1
+lb2
+
+lb3

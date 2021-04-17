@@ -10,11 +10,14 @@ line1
 line2
 
 #bar
-lineb1
-lineb2
+la1
+lb2
+
+lb3
+
 ```
 
 ## Sample output
 ```json
-{ "foo": "line1\nline2", "bar": "lineb1\nlineb2" }
+{ "foo" : "line1\nline2", "bar" : "la1\nlb2\n\nlb3" }
 ```
